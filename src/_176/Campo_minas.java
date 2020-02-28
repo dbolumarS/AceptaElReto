@@ -42,6 +42,6 @@ public class Campo_minas {
 				}
 			}
 		}
-		System.out.println("Salida: " + cont_total);
+		System.out.println("Salida:" + cont_total);
 	}
 }
